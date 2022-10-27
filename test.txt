@@ -1,3 +1,7 @@
 nano
 %%
+<<<<<<< HEAD
 sdsads
+=======
+wiiioiiii
+>>>>>>> beach
