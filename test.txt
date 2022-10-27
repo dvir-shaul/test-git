@@ -4,4 +4,8 @@ nano
 sdsads
 =======
 wiiioiiii
+<<<<<<< HEAD
+>>>>>>> beach
+=======
+16331633$
 >>>>>>> beach
